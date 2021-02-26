@@ -12,7 +12,6 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-
 //= require openlayers/OpenLayers
 //= require jquery
 //= require jquery_ujs

@@ -55,14 +55,6 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-# gem "jquery-ui-rails"
-# gem 'pg'
-gem 'typhoeus'
 gem 'bootstrap', '~> 4.0'
 gem 'devise'
 gem 'mini_racer', platforms: :ruby
-# gem 'openlayers-rails'
-
-# http://docs.openlayers.org/library/introduction.html
-
-# https://openlayers.org/en/latest/doc/quickstart.html
